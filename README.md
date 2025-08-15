@@ -6,6 +6,8 @@
 
 *Building secure applications while thinking like an attacker*
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Software+Developer;Cybersecurity+Engineer;CS+Student+%40+MSU+Denver;CTF+Competitor;Building+Secure+Applications)](https://git.io/typing-svg)
+
 </div>
 
 ---
