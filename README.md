@@ -61,9 +61,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-red?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest+-red?style=for-the-badge&logo=comptia&logoColor=white)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/4c4f1317-2bf3-48f3-b133-2558b063b935/linked_in_profile)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-red?style=for-the-badge&logo=comptia&logoColor=white)]([https://www.comptia.org/certifications/cysa](https://www.credly.com/badges/3a2d47b1-969d-4658-82b5-f5fb2d9969e2/public_url))
+[![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/5eaf1446-01ba-4167-a25e-57d44f06ffdc/linked_in_profile)
+[![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep_Learning_Fundamentals-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=bPvbtuttRAiCG7UsXrkv2w)
 
 </div>
 
