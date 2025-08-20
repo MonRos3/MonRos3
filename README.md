@@ -83,6 +83,8 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonRos3&theme=tokyonight&layout=compact)
+
 </div>
 
 <!--
