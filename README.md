@@ -15,26 +15,14 @@
 
 I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver (graduating Spring 2026), I build robust applications while maintaining a security-first mindset.
 
+**🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
+
 - 🔭 Currently working on **New Project, To Be Announced!** (Flask web application)
 - 🎨 Also working on **New Project, To Be Announced!** (MERN web application)
-- 🌱 Learning **Web Application Security & Intermediate Penetration Testing**
-- 🏆 Cybersecurity Competitions I've Competed In: **MWCC 2023/2024, RMCDCC 2025**
-- 💼 Working at **The Sustainability Hub** an NSF-funded program to make environmental data more accessible to people through a specialized RAG-chatbot on a user-friendly web app
-<!-- - 🎯 Goal: **DevSecOps Engineer → Penetration Tester → Red Team** -->
-<!--
-**MonRos3/MonRos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning **Web Application Security & Advanced Penetration Testing**
+- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
+- 💼 Working at **The Sustainability Hub** - NSF-funded program making environmental data accessible through a specialized RAG-chatbot
+- 📚 Researching **Multi-agent AI Security, Prompt Injection Attacks, LLM Vulnerabilities**
 
 ---
 
@@ -68,6 +56,27 @@ Here are some ideas to get you started:
 [![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep_Learning_Fundamentals-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=bPvbtuttRAiCG7UsXrkv2w)
 
 </div>
+
+---
+
+## 🔬 Research Highlights
+
+### Honors Thesis: Multi-Agent LLM Security Framework
+
+**Developing an extensible security testing framework for multi-agent AI systems:**
+
+**Research Focus:**
+- 🎯 **Checkpoint Architecture Vulnerabilities** - Attack vectors exploiting state persistence
+- 🔄 **Cross-Model Attack Persistence** - Security vulnerabilities across different LLM providers
+- 💻 **Code Security Analysis** - CWE pattern identification in LLM-generated code
+- 🧠 **Memory Management Security** - Resilience against injection and poisoning attacks
+- 📋 **Security Framework Development** - Guidelines for production multi-agent systems
+
+**Key Contributions:**
+- Open-source multi-agent testing framework for bili-core
+- Systematic vulnerability analysis across five attack dimensions
+- Empirical security evaluation methodology
+- Organizational security guidelines for AI deployment
 
 ---
 
@@ -109,17 +118,27 @@ Removed bc needs waka profile and install on IDE
 class CyberSecDev:
     def __init__(self):
         self.name = "Monica"
-        self.role = "Student Developer & Security Analyst"
+        self.role = "Student Developer, Security Analyst & AI Security Researcher"
         self.languages = ["Python", "JavaScript", "Java", "Bash"]
-        self.focus = ["Secure Coding", "Penetration Testing", "Web Security"]
+        self.focus = ["Secure Coding", "Penetration Testing", "AI/ML Security", "Web Security"]
         
     def current_goals(self):
         return [
-            "Complete Undergraduate Honors Thesis about LLM Security",
-            "Complete a new Flask app involving cybersecurity",
-            "Complete a new MERN app",
-            "Improve backend development skills",
-            "Expand CTF skills"
+            "Complete Honors Thesis on Multi-Agent LLM Security",
+            "Publish open-source security testing framework",
+            "Build Flask cybersecurity application",
+            "Complete MERN stack project",
+            "Expand AI security research",
+            "Continue CTF competitions"
+        ]
+        
+    def research_interests(self):
+        return [
+            "Multi-agent AI security vulnerabilities",
+            "Prompt injection and jailbreak attacks",
+            "LLM-generated code security (CWE analysis)",
+            "Checkpoint poisoning and memory attacks",
+            "Secure AI architecture design"
         ]
         
     def say_hi(self):
@@ -132,10 +151,12 @@ class CyberSecDev:
 
 - 🔍 **Software Development** roles with security focus
 - 🛡️ **Cybersecurity Engineering** positions
-- 🛡️ **Cybersecurity Analyst** positions  
+- 🛡️ **Cybersecurity Analyst** positions
+- 🤖 **AI/ML Security Research** opportunities
 - 🚀 **DevSecOps** opportunities
 - 🔒 **Application Security** positions
-- 🔥 **Entry-Level Penetration Testing** roles
+- 🔥 **Entry-Level Penetration Testing** positions
+- 📊 **Security Research & Development**
 
 ---
 
