@@ -158,11 +158,10 @@ class CyberSecDev:
     def current_goals(self):
         return [
             "Complete Honors Thesis on Multi-Agent LLM Security",
+            "Finish Multi-Agent AI Security Testing Framework",
+            "Complete Vulnerable Web App + Secure Refactor",
             "Publish open-source security testing framework",
-            "Build Flask cybersecurity application",
-            "Complete MERN stack project",
-            "Expand AI security research",
-            "Continue CTF competitions"
+            "Continue CTF competitions and security research"
         ]
         
     def research_interests(self):
