@@ -17,8 +17,8 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 **🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
 
-- 🔭 Currently working on **New Project, To Be Announced!** (Flask web application)
-- 🎨 Also working on **New Project, To Be Announced!** (MERN web application)
+- 🔭 Building **Vulnerable Web Application** - Flask app with intentional security flaws + secure refactor
+- 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
 - 🌱 Learning **Web Application Security & Advanced Penetration Testing**
 - 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
 - 💼 Working at **The Sustainability Hub** - NSF-funded program making environmental data accessible through a specialized RAG-chatbot
@@ -77,6 +77,38 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Systematic vulnerability analysis across five attack dimensions
 - Empirical security evaluation methodology
 - Organizational security guidelines for AI deployment
+
+---
+
+## 💼 Portfolio Projects
+
+### 🎯 Security Research & Development
+
+#### 1️⃣ **Multi-Agent AI Security Testing Framework** (In Progress)
+**Python framework using multiple LLM agents for automated security testing**
+- Multiple agent roles: attacker, defender, analyzer
+- Automated security test generation and analysis
+- Integration with security tools and APIs
+- Direct application of honors thesis research
+- **Tech Stack:** Python, LangChain, OpenAI/Anthropic APIs, pytest
+
+#### 2️⃣ **Vulnerable Web Application + Security Analysis** (In Progress)
+**Flask application demonstrating common vulnerabilities and secure remediation**
+- Intentional vulnerabilities: SQL injection, XSS, insecure file upload, weak sessions
+- Comprehensive security documentation for each vulnerability
+- Proof-of-concept exploits with code examples
+- Secure refactored version with fixes
+- Before/after security comparison report
+- **Tech Stack:** Flask, Python, SQLAlchemy, PostgreSQL
+
+#### 3️⃣ **Professional Penetration Testing Report** ✅
+**Comprehensive security assessment of intentionally vulnerable application**
+- Full PTES/OWASP methodology implementation
+- Executive summary and technical findings
+- CVSS severity ratings and risk analysis
+- Proof-of-concept exploit demonstrations
+- Detailed remediation recommendations
+- **Target:** DVWA/WebGoat/OWASP Juice Shop
 
 ---
 
