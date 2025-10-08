@@ -21,7 +21,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
 - 🌱 Learning **Web Application Security & Advanced Penetration Testing**
 - 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
-- 💼 Working at **The Sustainability Hub** - NSF-funded program making environmental data accessible through a specialized RAG-chatbot
+- 💼 Working at **The Sustainability Hub** - NSF-funded program making Colorado's environmental data accessible through a specialized RAG chatbot
 - 📚 Researching **Multi-agent AI Security, Prompt Injection Attacks, LLM Vulnerabilities**
 
 ---
