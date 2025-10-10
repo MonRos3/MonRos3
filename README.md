@@ -85,7 +85,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 ### 🎯 Security Research & Development
 
-#### 1️⃣ **Multi-Agent AI Security Testing Framework** (In Progress)
+#### 1️⃣ **Multi-Agent AI Security Testing Framework** [In Progress, ETA May]
 **Python framework using multiple LLM agents for automated security testing**
 - Multiple agent roles: attacker, defender, analyzer
 - Automated security test generation and analysis
@@ -93,7 +93,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Direct application of honors thesis research
 - **Tech Stack:** Python, LangChain, OpenAI/Anthropic APIs, pytest
 
-#### 2️⃣ **Vulnerable Web Application + Security Analysis** (In Progress)
+#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA January]
 **Flask application demonstrating common vulnerabilities and secure remediation**
 - Intentional vulnerabilities: SQL injection, XSS, insecure file upload, weak sessions
 - Comprehensive security documentation for each vulnerability
@@ -102,7 +102,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Before/after security comparison report
 - **Tech Stack:** Flask, Python, SQLAlchemy, PostgreSQL
 
-#### 3️⃣ **Professional Penetration Testing Report** ✅
+#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA November]
 **Comprehensive security assessment of intentionally vulnerable application**
 - Full PTES/OWASP methodology implementation
 - Executive summary and technical findings
