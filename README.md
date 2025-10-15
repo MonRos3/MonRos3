@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 🪷 About Me
 
 I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver (graduating Spring 2026), I build robust applications while maintaining a security-first mindset.
 
@@ -181,14 +181,14 @@ class CyberSecDev:
 
 ## 🎯 What I'm Looking For
 
-- 🔍 **Software Development** roles with security focus
-- 🛡️ **Cybersecurity Engineering** positions
-- 🛡️ **Cybersecurity Analyst** positions
-- 🤖 **AI/ML Security Research** opportunities
-- 🚀 **DevSecOps** opportunities
-- 🔒 **Application Security** positions
-- 🔥 **Entry-Level Penetration Testing** positions
-- 📊 **Security Research & Development**
+- **Software Development** roles with security focus
+- **Cybersecurity Engineering** positions
+- **Cybersecurity Analyst** positions
+- **AI/ML Security Research** opportunities
+- **DevSecOps** opportunities
+- **Application Security** positions
+- **Entry-Level Penetration Testing** positions
+- **Security Research & Development**
 
 ---
 
