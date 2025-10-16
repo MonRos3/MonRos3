@@ -5,7 +5,7 @@
   
 ### 💻 Software Developer | 🔐 Cybersecurity Engineer | 🎓 CS Student @ MSU Denver
 
-*Building secure applications while thinking like an attacker*
+<!-- *Building secure applications while thinking like an attacker* -->
 
 </div>
 
