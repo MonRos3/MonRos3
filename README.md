@@ -93,7 +93,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Direct application of honors thesis research
 - **Tech Stack:** Python, LangChain, OpenAI/Anthropic APIs, pytest
 
-#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA January]
+#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA February]
 **Flask application demonstrating common vulnerabilities and secure remediation**
 - Intentional vulnerabilities: SQL injection, XSS, insecure file upload, weak sessions
 - Comprehensive security documentation for each vulnerability
@@ -102,7 +102,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Before/after security comparison report
 - **Tech Stack:** Flask, Python, SQLAlchemy, PostgreSQL
 
-#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA November]
+#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA December]
 **Comprehensive security assessment of intentionally vulnerable application**
 - Full PTES/OWASP methodology implementation
 - Executive summary and technical findings
