@@ -1,5 +1,5 @@
 # Hi, I'm Monica.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Full+Stack+Intern;Cybersecurity+Engineer;Software+Developer;Reader+of+Books;Open-Source+Software+Enthusiast;CTF+Competitor;Knitter+of+Scarves+[Only+Scarves];Can+Make+Code+Do+Things;Can+Test+Code+Does+Stuff+Right;Breaker+of+Vulnerable+Code;Seeker+of+Knowledge;Tamer+of+Python;I+Like+Jolly+Ranchers;Sometimes+Plays+Guitar+Decently)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Full+Stack+Intern;Undergraduate+AI+Researcher;Cybersecurity+Engineer;Software+Developer;Reader+of+Books;Open-Source+Software+Enthusiast;CTF+Competitor;Knitter+of+Scarves+[Only+Scarves];Can+Make+Code+Do+Things;Can+Test+Code+Does+Stuff+Right;Breaker+of+Vulnerable+Code;Seeker+of+Knowledge;Tamer+of+Python;I+Like+Jolly+Ranchers;Sometimes+Plays+Guitar+Decently)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -145,6 +145,7 @@ Removed bc needs waka profile and install on IDE
 ---
 -->
 
+<!--
 ## 📈 Current Focus
 
 ```python
@@ -176,7 +177,7 @@ class CyberSecDev:
     def say_hi(self):
         print("Let's build something secure together!")
 ```
-
+-->
 ---
 
 ## 🎯 What I'm Looking For
