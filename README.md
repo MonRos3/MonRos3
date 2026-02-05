@@ -13,16 +13,16 @@
 
 ## 🪷 About Me
 
-I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver (graduating Spring 2026), I build robust applications while maintaining a security-first mindset.
+I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver [graduating Spring 2026], I build and audit robust applications while maintaining a security-first mindset.
 
-**🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
+**🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core [AETHER] that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
 
-- 🔭 Building **Vulnerable Web Application** - Flask app with intentional security flaws + secure refactor
-- 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
-- 🌱 Learning **Web Application Security & Advanced Penetration Testing**
-- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
 - 💼 Working at **The Sustainability Hub** - NSF-funded program making Colorado's environmental data accessible through a specialized RAG chatbot
+- 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
 - 📚 Researching **Multi-agent AI Security, Prompt Injection Attacks, LLM Vulnerabilities**
+- 🌱 Learning **Web Application Security & Advanced Penetration Testing** in preparation for taking Hack the Box's Certified Penetration Testing Specialist applied exam
+- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
+- 🔭 Later: Building **Vulnerable Web Application** - Flask app with intentional security flaws + secure refactor
 
 ---
 
@@ -64,12 +64,11 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 ### Honors Thesis: Multi-Agent LLM Security Framework
 
-**Developing an extensible security testing framework for multi-agent AI systems:**
+**Developing an extensible security testing framework for early-stage multi-agent AI systems:**
 
 **Research Focus:**
 - 🎯 **Checkpoint Architecture Vulnerabilities** - Attack vectors exploiting state persistence
 - 🔄 **Cross-Model Attack Persistence** - Security vulnerabilities across different LLM providers
-- 💻 **Code Security Analysis** - CWE pattern identification in LLM-generated code
 - 🧠 **Memory Management Security** - Resilience against injection and poisoning attacks
 - 📋 **Security Framework Development** - Guidelines for production multi-agent systems
 
@@ -85,7 +84,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 ### 🎯 Security Research & Development
 
-#### 1️⃣ **Multi-Agent AI Security Testing Framework** [In Progress, ETA May]
+#### 1️⃣ **Multi-Agent AI Security Testing Framework** [In Progress, ETA May 2026]
 **Python framework using multiple LLM agents for automated security testing**
 - Multiple agent roles: attacker, defender, analyzer
 - Automated security test generation and analysis
@@ -93,7 +92,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Direct application of honors thesis research
 - **Tech Stack:** Python, LangChain, OpenAI/Anthropic APIs, pytest
 
-#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA February]
+#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA June 2026]
 **Flask application demonstrating common vulnerabilities and secure remediation**
 - Intentional vulnerabilities: SQL injection, XSS, insecure file upload, weak sessions
 - Comprehensive security documentation for each vulnerability
@@ -102,7 +101,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - Before/after security comparison report
 - **Tech Stack:** Flask, Python, SQLAlchemy, PostgreSQL
 
-#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA December]
+#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA July 2026]
 **Comprehensive security assessment of intentionally vulnerable application**
 - Full PTES/OWASP methodology implementation
 - Executive summary and technical findings
@@ -182,13 +181,13 @@ class CyberSecDev:
 
 ## 🎯 What I'm Looking For
 
+- **Entry-Level Penetration Testing** positions
+- **Application Security** positions
 - **Software Development** roles with security focus
 - **Cybersecurity Engineering** positions
 - **Cybersecurity Analyst** positions
 - **AI/ML Security Research** opportunities
 - **DevSecOps** opportunities
-- **Application Security** positions
-- **Entry-Level Penetration Testing** positions
 - **Security Research & Development**
 
 ---
