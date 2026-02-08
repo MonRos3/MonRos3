@@ -186,9 +186,9 @@ class CyberSecDev:
 - **Software Development** roles with security focus
 - **Cybersecurity Engineering** positions
 - **Cybersecurity Analyst** positions
+- **Security Research & Development** opportunities
 - **AI/ML Security Research** opportunities
 - **DevSecOps** opportunities
-- **Security Research & Development**
 
 ---
 
