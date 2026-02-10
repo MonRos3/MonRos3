@@ -21,7 +21,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
 - 📚 Researching **Multi-agent AI Security, Prompt Injection Attacks, LLM Vulnerabilities**
 - 🌱 Learning **Web Application Security & Advanced Penetration Testing** in preparation for taking Hack the Box's Certified Penetration Testing Specialist applied exam
-- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCDCC 2025**
+- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCCDC 2025**
 - 🔭 Later: Building **Vulnerable Web Application** - Flask app with intentional security flaws + secure refactor
 
 ---
