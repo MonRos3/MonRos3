@@ -118,9 +118,8 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MonRos3&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 </div>
-
 <!--
 ---
 
