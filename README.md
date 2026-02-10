@@ -111,24 +111,14 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 - **Target:** DVWA/WebGoat/OWASP Juice Shop
 
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
--->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonRos3&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MonRos3&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-Removed bc needs waka profile and install on IDE
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonRos3&theme=tokyonight&layout=compact)
--->
-
 </div>
 
 <!--
