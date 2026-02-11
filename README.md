@@ -13,7 +13,7 @@
 
 ## 🪷 About Me
 
-I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver [graduating Spring 2026], I build and audit robust applications while maintaining a security-first mindset.
+I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver [graduating Spring 2026], I build and audit robust applications while maintaining a security-first mindset. 
 
 **🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core [AETHER] that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
 
