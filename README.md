@@ -113,8 +113,9 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 ---
 ## 📊 GitHub Stats
 <div align="center">
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonRos3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+-->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MonRos3&theme=tokyonight&hide_border=false)
 
