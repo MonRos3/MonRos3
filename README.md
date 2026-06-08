@@ -1,9 +1,9 @@
 # Hi, I'm Monica.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Full+Stack+Intern;Undergraduate+AI+Researcher;Cybersecurity+Engineer;Software+Developer;Reader+of+Books;Open-Source+Software+Enthusiast;CTF+Competitor;Knitter+of+Scarves+[Only+Scarves];Can+Make+Code+Do+Things;Can+Test+Code+Does+Stuff+Right;Breaker+of+Vulnerable+Code;Seeker+of+Knowledge;Tamer+of+Python;I+Like+Skittles;Sometimes+Plays+Guitar+Decently)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Security+Engineer;AppSec+%7C+Detection+%7C+DFIR;Full-Stack+Background;LLM+Security+Researcher;Open-Source+Software+Enthusiast;CTF+Competitor;Knitter+of+Scarves+[Only+Scarves];Can+Make+Code+Do+Things;Can+Test+Code+Does+Stuff+Right;Breaker+of+Vulnerable+Code;Seeker+of+Knowledge;Tamer+of+Python;I+Like+Skittles;Sometimes+Plays+Guitar+Decently)](https://git.io/typing-svg)
 
 <div align="center">
   
-### 💻 Software Developer | 🔐 Cybersecurity Engineer | 🎓 CS Student @ MSU Denver
+### 🔐 Security Engineer | 🛠️ Full-Stack Background | 🎓 Computer Science B.S. @ MSU Denver
 
 <!-- *Building secure applications while thinking like an attacker* -->
 
@@ -13,20 +13,23 @@
 
 ## 🪷 About Me
 
-I'm a full-stack developer and cybersecurity professional who bridges the gap between secure coding practices and threat analysis. Currently pursuing my Computer Science degree at MSU Denver [graduating Spring 2026], I build and audit robust applications while maintaining a security-first mindset. 
+I'm a security engineer with a full-stack development background, focused on the defensive side: application security, detection engineering, and DFIR. Three years building production applications taught me how systems are built and where they break — I bring that engineer's eye to defending them.
 
-**🔬 Current Research:** Conducting honors thesis on **multi-agent LLM security vulnerabilities**, developing an open-source testing framework for bili-core [AETHER] that enables systematic security evaluation of AI agent systems—addressing prompt injection, jailbreak attacks, checkpoint poisoning, and bias amplification.
-
-- 💼 Working at **The Sustainability Hub** - NSF-funded program making Colorado's environmental data accessible through a specialized RAG chatbot
-- 🤖 Developing **Multi-Agent AI Security Testing Framework** - Python framework for automated LLM security testing
-- 📚 Researching **Multi-agent AI Security, Prompt Injection Attacks, LLM Vulnerabilities**
-- 🌱 Learning **Web Application Security & Advanced Penetration Testing** in preparation for taking Hack the Box's Certified Penetration Testing Specialist applied exam
-- 🏆 Cybersecurity Competitions: **MWCC 2023/2024, RMCCDC 2025**
-- 🔭 Later: Building **Vulnerable Web Application** - Flask app with intentional security flaws + secure refactor
+- 🔬 **Honors thesis:** security in multi-agent LLM systems — built **AETHER**, an open-source framework for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
+- 🤖 Contributed to building an **end-to-end RAG chatbot** for natural-language queries of environmental datasets (NSF-funded Sustainability Hub)
+- 🌱 Currently preparing for **Hack the Box's CPTS** exam to deepen offensive knowledge that sharpens my defense
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Security & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,16 +37,7 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Security & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -51,64 +45,22 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 
 <div align="center">
 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/4c4f1317-2bf3-48f3-b133-2558b063b935/linked_in_profile)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-red?style=for-the-badge&logo=comptia&logoColor=white)]([https://www.comptia.org/certifications/cysa](https://www.credly.com/badges/3a2d47b1-969d-4658-82b5-f5fb2d9969e2/public_url))
 [![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/5eaf1446-01ba-4167-a25e-57d44f06ffdc/linked_in_profile)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-red?style=for-the-badge&logo=comptia&logoColor=white)]([https://www.comptia.org/certifications/cysa](https://www.credly.com/badges/3a2d47b1-969d-4658-82b5-f5fb2d9969e2/public_url))
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/4c4f1317-2bf3-48f3-b133-2558b063b935/linked_in_profile)
 [![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep_Learning_Fundamentals-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=bPvbtuttRAiCG7UsXrkv2w)
 
 </div>
 
 ---
+## 🔬 Honors Thesis: Multi-Agent LLM Security
 
-## 🔬 Research Highlights
+Built **AETHER** (Agent Ecosystems for Testing, Hardening, Evaluation, and Research), an open-source framework for security testing of early-stage multi-agent LLM systems.
 
-### Honors Thesis: Multi-Agent LLM Security Framework
-
-**Developing an extensible security testing framework for early-stage multi-agent AI systems:**
-
-**Research Focus:**
-- 🎯 **Checkpoint Architecture Vulnerabilities** - Attack vectors exploiting state persistence
-- 🔄 **Cross-Model Attack Persistence** - Security vulnerabilities across different LLM providers
-- 🧠 **Memory Management Security** - Resilience against injection and poisoning attacks
-- 📋 **Security Framework Development** - Guidelines for production multi-agent systems
-
-**Key Contributions:**
-- Open-source multi-agent testing framework for bili-core
-- Systematic vulnerability analysis across five attack dimensions
-- Empirical security evaluation methodology
-- Organizational security guidelines for AI deployment
-
----
-
-## 💼 Portfolio Projects
-
-### 🎯 Security Research & Development
-
-#### 1️⃣ **Multi-Agent AI Security Testing Framework** [In Progress, ETA May 2026]
-**Python framework using multiple LLM agents for automated security testing**
-- Multiple agent roles: attacker, defender, analyzer
-- Automated security test generation and analysis
-- Integration with security tools and APIs
-- Direct application of honors thesis research
-- **Tech Stack:** Python, LangChain, OpenAI/Anthropic APIs, pytest
-
-#### 2️⃣ **Vulnerable Web Application + Security Analysis** [In Progress, ETA June 2026]
-**Flask application demonstrating common vulnerabilities and secure remediation**
-- Intentional vulnerabilities: SQL injection, XSS, insecure file upload, weak sessions
-- Comprehensive security documentation for each vulnerability
-- Proof-of-concept exploits with code examples
-- Secure refactored version with fixes
-- Before/after security comparison report
-- **Tech Stack:** Flask, Python, SQLAlchemy, PostgreSQL
-
-#### 3️⃣ **Professional Penetration Testing Report**  [In Progress, ETA July 2026]
-**Comprehensive security assessment of intentionally vulnerable application**
-- Full PTES/OWASP methodology implementation
-- Executive summary and technical findings
-- CVSS severity ratings and risk analysis
-- Proof-of-concept exploit demonstrations
-- Detailed remediation recommendations
-- **Target:** DVWA/WebGoat/OWASP Juice Shop
+- Declare a multi-agent system via YAML; interact through a Streamlit app
+- Attack-testing suite covering five vectors: **prompt injection, structured jailbreak, memory poisoning, bias inheritance, agent impersonation**
+- Empirical evaluation across attack dimensions, plus security guidelines for production multi-agent deployments
+- Defended at MSU Denver's Honors Thesis Symposium; related research presented at the **NAIRR Pilot Annual Meeting 2026** 
 
 ---
 ## 📊 GitHub Stats
@@ -124,12 +76,14 @@ I'm a full-stack developer and cybersecurity professional who bridges the gap be
 <!--
 ---
 
+<!--
 ## 🏆 Recent Achievements
 
 - 🚩 **RMCDCC 2025** - Rocky Mountain Collegiate Cyber Defence Competition Participant
 - 🚩 **MWCC CTF** - Capture The Flag competitions (2023, 2024)
 - 🎓 **Dean's List** - Academic Excellence (if applicable)
 - 💻 **Goal Buddy** - Full-stack Flask application development
+
 
 ---
 -->
@@ -171,14 +125,10 @@ class CyberSecDev:
 
 ## 🎯 What I'm Looking For
 
-- **Entry-Level Penetration Testing** positions
-- **Application Security** positions
-- **Software Development** roles with security focus
-- **Cybersecurity Engineering** positions
-- **Cybersecurity Analyst** positions
-- **Security Research & Development** opportunities
-- **AI/ML Security Research** opportunities
-- **DevSecOps** opportunities
+- **Application Security Engineering**
+- **Detection Engineering**
+- **DFIR**
+- **DevSecOps**
 
 ---
 
