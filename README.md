@@ -13,9 +13,9 @@
 
 ## 🪷 About Me
 
-I'm a security engineer with a full-stack development background, focused on the defensive side: application security, detection engineering, and DFIR. Three years building production applications taught me how systems are built and where they break — I bring that engineer's eye to defending them.
+I'm a security engineer with a full-stack development background, focused on the defensive side: application security, detection engineering, and DFIR. Three years building production applications taught me how systems are built and where they break; I bring that engineer's eye to defending them.
 
-- 🔬 **Honors thesis:** security in multi-agent LLM systems — built **AETHER**, an open-source framework for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
+- 🔬 **Honors thesis:** security in multi-agent LLM systems; built **AETHER**, an open-source framework for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
 - 🤖 Contributed to building an **end-to-end RAG chatbot** for natural-language queries of environmental datasets (NSF-funded Sustainability Hub)
 - 🌱 Currently preparing for **Hack the Box's CPTS** exam to deepen offensive knowledge that sharpens my defense
 
