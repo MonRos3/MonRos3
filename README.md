@@ -11,13 +11,13 @@
 
 ---
 
-## 🪷 About Me
+## About Me
 
 I build AI-powered applications, RAG systems and multi-agent workflows, and I secure them. My background includes building production software and security work; these two focuses taught me how systems are built, where they break, and best practices to secure them. 
 
-- 🤖 **AI/LLM development:** built an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) for natural-language queries of environmental datasets on a production MERN-stack platform (NSF-funded Sustainability Hub)
-- 🔬 **Honors thesis:** security of multi-agent LLM systems — built **AETHER**, an open-source framework for configuring multi-agent LLM systems with a YAML file, and **AEGIS** for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
-- 🌱 Currently preparing for **Hack The Box's CPTS** exam to deepen the offensive knowledge that sharpens both my testing and my building
+- **AI/LLM development:** built an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) for natural-language queries of environmental datasets on a production MERN-stack platform (NSF-funded Sustainability Hub)
+- **Honors thesis:** security of multi-agent LLM systems — built **AETHER**, an open-source framework for configuring multi-agent LLM systems with a YAML file, and **AEGIS** for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
+- Currently preparing for **Hack The Box's CPTS** exam to deepen the offensive knowledge that sharpens both my testing and my building
 
 ---
 
@@ -48,7 +48,7 @@ I build AI-powered applications, RAG systems and multi-agent workflows, and I se
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 <div align="center">
 
@@ -61,9 +61,9 @@ I build AI-powered applications, RAG systems and multi-agent workflows, and I se
 
 ---
 
-## 🔬 Featured Work
+## Featured Work
 
-### 🤖 AETHER/AEGIS — Multi-Agent LLM Security Framework *(Honors Thesis)*
+### AETHER/AEGIS — Multi-Agent LLM Security Framework *(Honors Thesis)*
 
 Built **AETHER** (Agent Ecosystems for Testing, Hardening, Evaluation, and Research), an open-source framework for configuring early-stage multi-agent LLM systems using a declarative, human-readable file, and expanded it with **AEGIS** (Adversarial Evaluation and Guarding of Intelligent Systems) to facilitate one-shot attacks input either pre- or mid-execution. 
 
@@ -72,12 +72,12 @@ Built **AETHER** (Agent Ecosystems for Testing, Hardening, Evaluation, and Resea
 - Empirical evaluation across attack dimensions and agent topologies, plus security guidelines for production multi-agent deployments
 - Presented at MSU Denver's Honors Thesis Symposium; related research presented at the **NAIRR Pilot Annual Meeting 2026** and MSU Denver's **Undergraduate Research Conference**
 
-### 🌱 RAG Chatbot — Environmental Data Assistant *(NSF-funded Sustainability Hub)*
+### RAG Chatbot — Environmental Data Assistant *(NSF-funded Sustainability Hub)*
 
 Contributed to an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) that opens environmental datasets to researchers and policymakers through natural-language queries, on a production MERN-stack platform with secure, authenticated API endpoints.
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MonRos3&theme=tokyonight&hide_border=false)
@@ -87,7 +87,7 @@ Contributed to an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) that o
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 **AI / LLM Development**
 - AI/LLM Developer — RAG, agentic & multi-agent systems
@@ -100,7 +100,7 @@ Contributed to an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) that o
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
