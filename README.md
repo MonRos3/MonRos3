@@ -15,9 +15,9 @@
 
 I build applications, websites, AI-powered applications, RAG systems and multi-agent workflows, and I secure them. My background includes building production software and security work; these two focuses taught me how systems are built, where they break, and best practices to secure them. I am a fan of using Test-Driven Development (TDD) and Object-Oriented Programming (OOP). I also think Open-Source Software (OSS) is super cool.
 
-- **AI/LLM development:** built an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) for natural-language queries of environmental datasets on a production MERN-stack platform (NSF-funded Sustainability Hub)
-- **Honors thesis:** security of multi-agent LLM systems — built **AETHER**, an open-source framework for configuring multi-agent LLM systems with a YAML file, and **AEGIS** for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best
-- Currently preparing for **Hack The Box's CPTS** exam to deepen the offensive knowledge that sharpens both my testing and my building
+- **AI/LLM development:** built an end-to-end **RAG chatbot** (Python, LangChain, MongoDB) for natural-language queries of environmental datasets on a production MERN-stack platform (NSF-funded Sustainability Hub).
+- **Honors thesis:** security of multi-agent LLM systems — built **AETHER**, an open-source framework for configuring multi-agent LLM systems with a YAML file, and **AEGIS** for testing how autonomous agents can be attacked when they coordinate, and which topologies hold up best.
+- Currently preparing for **Hack The Box's CPTS** exam to deepen the offensive knowledge that sharpens both my testing and my building.
 
 ---
 
